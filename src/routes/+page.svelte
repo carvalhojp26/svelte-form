@@ -1,2 +1,3 @@
-<h1 class="text-5xl">Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<div class="flex justify-center items-center min-h-screen">
+    <h1 class="text-4xl text-white">Redirect to <a href="/form" class="underline hover:text-blue-300">/form</a></h1>
+</div>
